@@ -1,0 +1,8 @@
+Loading openmpi/4.1.2/gcc-7.3.0-ixq7
+  Loading requirement: cuda/11.6.0/gcc-7.3.0-cqym libevent/2.1.12/gcc-7.3.0-pk7n
+    numactl/2.0.14/gcc-7.3.0-q626 openssh/8.8p1/gcc-7.3.0-2gft
+    rdma-core/34.0/gcc-7.3.0-qzsz slurm/17.11.3-2/gcc-7.3.0-zorw
+    zlib/1.2.11/gcc-7.3.0-6cp5
+[****] TIME(s)     99.81389 : dpotrf	PxQxg=   1 1   0 NB=  200 N=   20000 :      26.718393 gflops - ENQ&PROG&DEST     99.81701 :      26.717557 gflops - ENQ      0.00174 - DEST      0.00138
+[****] TIME(s)    197.71186 : dpotrf	PxQxg=   1 1   0 NB=  200 N=   20000 :      13.488653 gflops - ENQ&PROG&DEST    197.71319 :      13.488562 gflops - ENQ      0.00009 - DEST      0.00124
+[****] TIME(s)    195.54135 : dpotrf	PxQxg=   1 1   0 NB=  200 N=   20000 :      13.638377 gflops - ENQ&PROG&DEST    195.54271 :      13.638283 gflops - ENQ      0.00007 - DEST      0.00128
